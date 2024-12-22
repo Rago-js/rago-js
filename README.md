@@ -1,3 +1,6 @@
+![profile count](https://komarev.com/ghpvc/?username=ragobabaxd&color=blue)&nbsp;
+[![GitHub Stats](https://img.shields.io/github/followers/ragobabaxd?label=follow&style=social)](https://github.com/ragobabaxd)&nbsp;
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FFFFFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Hello+I+am+rágô" alt="Typing SVG" />
 </h1>
