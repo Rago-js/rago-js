@@ -1,5 +1,5 @@
-![profile count](https://komarev.com/ghpvc/?username=ragobabaxd&color=blue)&nbsp;
-[![GitHub Stats](https://img.shields.io/github/followers/ragobabaxd?label=follow&style=social)](https://github.com/ragobabaxd)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=rago-js&color=blue)&nbsp;
+[![GitHub Stats](https://img.shields.io/github/followers/rago-js?label=follow&style=social)](https://github.com/rago-js)&nbsp;
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FFFFFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Hello+I+am+rágô" alt="Typing SVG" />
@@ -26,7 +26,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragobabaxd&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rago-js&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 <h1 align="center">
@@ -34,7 +34,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragobabaxd&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rago-js&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <h1 align="center">
@@ -42,5 +42,5 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ragobabaxd&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rago-js&theme=radical" alt="GitHub Trophies" />
 </div>
