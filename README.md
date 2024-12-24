@@ -33,7 +33,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rago-js&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rago-js&show_icons=true&theme=radical&cache_seconds=1" alt="GitHub Stats" />
 </div>
 
 <h1 align="center">
@@ -41,5 +41,5 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rago-js&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rago-js&theme=radical&cache_seconds=1" alt="GitHub Trophies" />
 </div>
