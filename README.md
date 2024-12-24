@@ -25,7 +25,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/9f9fcc5e2d7b55dfde48f2c6343edf36ba4f6dc88837e9fc8708ef705babcccc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7261676f2d6a73266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rago-js&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 <h1 align="center">
