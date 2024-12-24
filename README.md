@@ -25,7 +25,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rago-js&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rago-js&layout=compact&theme=radical&cache_seconds=1" alt="Most Used Languages" />
 </div>
 
 <h1 align="center">
