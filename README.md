@@ -6,7 +6,7 @@
 </h1>
 
 <h2 align="center">
- <a href="https://discord.com/users/203007301219516416"><img  width="400px" src="https://lanyard.kyrie25.me/api/203007301219516416?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=kapasiteniz+yetmez"></a>
+ <a href="https://discord.com/users/203007301219516416"><img  width="400px" src="https://lanyard.kyrie25.me/api/203007301219516416?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Probably+coding..."></a>
 <br> </br>
   
 <h1 align="center">
